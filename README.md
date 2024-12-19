@@ -40,7 +40,7 @@ The developers behind Viper Anticheat are identified as:
 1. ChatGPT comments left in the code:
    ![ChatGPT Comments](https://github.com/user-attachments/assets/584450ba-9ee3-4d96-abda-9451cf49783f)
 
-2. Inefficient GitHub-based detections:
+2. Inefficient GitHub-based detections (https://github.com/imn0th1ng/antimagicbullet):
    ![GitHub Detection](https://github.com/user-attachments/assets/08c884ef-4e6c-4486-b860-2aa981f1448f)
 
 3. Over-engineered code snippets:
