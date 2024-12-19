@@ -32,6 +32,9 @@ The developers behind Viper Anticheat are identified as:
 - **Nxton** (Clown Developer #2)
   ![Nxton Image](https://github.com/user-attachments/assets/c807bf54-de3c-46ea-9c48-c38475e98773)
 
+- GTA is written in LUA???? 🤣
+  ![{3BCD6689-5CDA-46E5-934F-C68239EF0ED4}](https://github.com/user-attachments/assets/92a2358e-2fbf-4afb-b3e8-b2cff5a8a5e8)
+
 ### Additional Observations
 - **Irresponsible Coding Practices**: Their code includes unnecessary functions for simple tasks and lacks proper optimization.
 - **Suspicious Use of ChatGPT**: Code patterns suggest heavy reliance on AI tools like ChatGPT.
